@@ -110,6 +110,6 @@ st.markdown("""
         }
     </style>
     <div class="footer">
-        Made with  by Sai Teja
+        Made by Sai Teja
     </div>
 """, unsafe_allow_html=True)
